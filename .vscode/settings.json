@@ -10,5 +10,6 @@
     "typescript",
     "typescriptreact",
     "css"
-  ]
+  ],
+  "css.customData": ["./css-modules.css-data.json"]
 }
