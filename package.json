@@ -1,0 +1,20 @@
+{
+  "name": "css-modules-kit-example",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "gen": "cmk",
+    "lint": "eslint ."
+  },
+  "author": "mizdra <pp.mizdra@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@css-modules-kit/codegen": "^0.2.0",
+    "@css-modules-kit/eslint-plugin": "^0.1.0",
+    "@eslint/css": "^0.6.0",
+    "eslint": "^9.24.0",
+    "typescript": "^5.8.3"
+  }
+}
