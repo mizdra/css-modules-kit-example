@@ -1,6 +1,0 @@
-.b_1 {
-  color: red;
-  /* If this is commented out, eslint fails. It is a bug in @css-modules-kit/eslint-plugin. */
-  /* composes: b_2; */
-}
-@value b_2: red;
