@@ -23,5 +23,8 @@
     "noUncheckedIndexedAccess": true,
     "allowUnusedLabels": true,
     "allowUnreachableCode": true
+  },
+  "cmkOptions": {
+    "enabled": true
   }
 }

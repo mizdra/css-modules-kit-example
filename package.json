@@ -11,10 +11,10 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@css-modules-kit/codegen": "^0.2.0",
-    "@css-modules-kit/eslint-plugin": "^0.1.0",
-    "@eslint/css": "^0.6.0",
-    "eslint": "^9.24.0",
-    "typescript": "^5.8.3"
+    "@css-modules-kit/codegen": "^0.7.0",
+    "@css-modules-kit/eslint-plugin": "^0.3.1",
+    "@eslint/css": "^0.14.1",
+    "eslint": "^9.39.2",
+    "typescript": "^5.9.3"
   }
 }
