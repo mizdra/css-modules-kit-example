@@ -10,5 +10,6 @@
     "typescriptreact",
     "css"
   ],
-  "css.customData": ["./css-modules.css-data.json"]
+  "css.customData": ["./css-modules.css-data.json"],
+  "typescript.tsserver.log": "verbose"
 }
