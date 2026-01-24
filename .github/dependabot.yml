@@ -1,0 +1,12 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    allow:
+      - dependency-name: "@css-modules-kit/*"
+    groups:
+      css-modules-kit:
+        patterns:
+          - "@css-modules-kit/*"
