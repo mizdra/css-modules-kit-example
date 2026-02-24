@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "gen": "cmk",
-    "lint": "eslint ."
+    "lint": "eslint . && stylelint \"**/*.css\""
   },
   "author": "mizdra <pp.mizdra@gmail.com>",
   "license": "MIT",
@@ -13,8 +13,10 @@
   "devDependencies": {
     "@css-modules-kit/codegen": "^0.10.0",
     "@css-modules-kit/eslint-plugin": "^0.10.0",
+    "@css-modules-kit/stylelint-plugin": "^0.10.0",
     "@eslint/css": "^0.14.1",
     "eslint": "^9.39.2",
+    "stylelint": "^17.3.0",
     "typescript": "^5.9.3"
   }
 }
